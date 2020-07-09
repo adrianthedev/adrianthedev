@@ -2,8 +2,6 @@
 
 ## Product-Minded Software Engineer
 
----
-
 I work/worked with:
 
  - Ruby & Rails
