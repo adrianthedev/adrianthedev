@@ -10,6 +10,8 @@ Helped around on [helpwithcovid.com](https://helpwithcovid.com/) and [helpwithbl
     <td>
  
 ![Metrics](https://metrics.lecoq.io/adrianthedev)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianthedev&show_icons=true&theme=radical)
+![Adrian's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianthedev&layout=compact)
 
 </td>
     <td>
