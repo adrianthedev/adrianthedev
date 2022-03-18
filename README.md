@@ -32,3 +32,5 @@ Helped around on [helpwithcovid.com](https://helpwithcovid.com/) and [helpwithbl
 </table>
  
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fadrianthedev%2Fadrianthedev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrianthedev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
